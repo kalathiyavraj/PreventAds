@@ -1,0 +1,3 @@
+include ':PreventAds'
+include ':app'
+rootProject.name = "AdmobOpenAdsLibrary"
