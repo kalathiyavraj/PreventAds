@@ -18,7 +18,7 @@
 ```gradle
 dependencies {
 
-       implementation 'com.github.kalathiyavraj:PreventAds:1.0.1'
+       implementation 'com.github.kalathiyavraj:PreventAds:1.1.0'
 
             }
   ```
